@@ -1,6 +1,9 @@
-# CSI_sensing
-基于LSTM-FCN的人流数目检测及在WLAN上的应用
+# CSI-sensing
+Multi-Object Passing Detection Using Long Short-Term Memory Fully Convolutional Networks and Its Application to WLAN Sensing
 
-1、实验验证所用数据放于百度网盘中，地址为
+1、The data used for experimental verification is placed in Baidu Disk at the address:
+https://pan.baidu.com/s/1aaDIkhdFlx21Ojdr1mckHA
+password:
+vl16
 
-2、将数据解包和代码放于同一目录下，运行Train代码即可。
+2、Extract the data and place the code in the same directory, then run the Train code.
